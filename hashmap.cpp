@@ -1,4 +1,5 @@
 
+//uppercase strings
 //hashing using map for strings
 
 #include<bits/stdc++.h>
