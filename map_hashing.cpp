@@ -32,19 +32,19 @@ int main(){
 
 
 
-OUTPUT:-
+// OUTPUT:-
 
 
-                                            > cd "c:\Users\User\OneDrive\Desktop\chetan\C++\" ; if ($?) { g++ hashmap.cpp -o hashmap } ; if ($?) { .\hashmap }
-5
-1 2 2 1 44
-1 -> 2
-2 -> 2
-44 -> 1
-3
-2 44 1
-2
-1
-2
-PS C:\Users\User\OneDrive\Desktop\chetan\C++>
- *  History restored 
+//                                             > cd "c:\Users\User\OneDrive\Desktop\chetan\C++\" ; if ($?) { g++ hashmap.cpp -o hashmap } ; if ($?) { .\hashmap }
+// 5
+// 1 2 2 1 44
+// 1 -> 2
+// 2 -> 2
+// 44 -> 1
+// 3
+// 2 44 1
+// 2
+// 1
+// 2
+// PS C:\Users\User\OneDrive\Desktop\chetan\C++>
+//  *  History restored 
