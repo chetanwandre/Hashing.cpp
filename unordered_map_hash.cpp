@@ -2,6 +2,7 @@
 //unordered map
 
 //The average and best case time complexity for both precompute and fetching operations is O(1) for UNORDERED map
+//worst case time complexity is O(1) , where n = no. of elements in map data structure
 
 #include<bits/stdc++.h>
 using namespace std;
