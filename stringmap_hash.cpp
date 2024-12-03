@@ -31,3 +31,14 @@ int main(){
     
     return 0;
 }
+
+
+// OUTPUT:-
+
+//     ADAS
+// 3
+// A D E
+// 1
+// 0
+// 0
+// PS C:\Users\User\OneDrive\Desktop\chetan\C++>
