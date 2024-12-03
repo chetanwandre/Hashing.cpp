@@ -1,7 +1,7 @@
 //map hashing
 //unordered map
 
-//time complexity for both precompute and fetching operations is O(log n) for unordered map
+//The average and best case time complexity for both precompute and fetching operations is O(1) for UNORDERED map
 
 #include<bits/stdc++.h>
 using namespace std;
